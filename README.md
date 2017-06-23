@@ -1,2 +1,3 @@
-# PHP-wm
-发现好多东西要写啊，一个一个来吧
+# Project
+
+PHP + MySQL 项目
